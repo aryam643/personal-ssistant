@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1643351283 source:d:\codes\problems solution finding\personal_assistant\main.cpp
+	<iostream>
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+	<dirent.h>
+	<unistd.h>
+	<ctime>
+	<time.h>
+	<fstream>
+	<cstdio>
+
